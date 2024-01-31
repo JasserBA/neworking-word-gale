@@ -46,8 +46,9 @@ Navigate to the project directory:
 
 1. #### Compile the server and client programs:
 
-    gcc SERVEUR.c -o Server
-    gcc CLIENT.c -o Client
+   ```bash
+   gcc SERVEUR.c -o Server
+   gcc CLIENT.c -o Client
     
 2. #### Running the Server
 Start the server:
