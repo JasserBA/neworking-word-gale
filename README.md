@@ -49,7 +49,7 @@ Navigate to the project directory:
    ```bash
    gcc SERVEUR.c -o Server
    gcc CLIENT.c -o Client
-    
+
 2. #### Running the Server
 Start the server:
 
